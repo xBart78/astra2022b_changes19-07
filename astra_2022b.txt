@@ -2,6 +2,11 @@
 przywróciłem wersję ULTIMATE
 dodałem silnik M:EO81 O3SK9 / M5V do ULTIMATE
 ustawiłem M:EO81 jako Deafault MPV w zakładce OVERVIEW
-M:H161 ustawiłeem widoczność tylko dla B2B
+M:H161 ustawiłeem widoczność tylko dla B2B w EDITION
 M:IL81 odpiąłem z ULTIMATE
 XZJH, XZJG, XZZP - odpiąłem ze wszystkich trimów
+
+
+21.07.2022
+dodałem ceny do MPV w ULTIMATE
+M:H161 ustawiłem widoczność tylko dla B2B w ELEGANCE i GS LINE
